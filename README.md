@@ -16,7 +16,7 @@ The five models are ranked based on their MAE performance.
 **Performance Evaluation:**
 The RMSE, R-squared (R2), MAE, and MAPE for each of the five best-performing models are presented in four subplots. The models are arranged according to their assigned ranks in terms of MAE, with the highest rank model on the left and the lowest rank model on the right along the x-axis.
 
-**Model Download**
+**Model Download:**
 The five best-performing models along with the preprocessors used for predicting BHT are saved.
 
 **Deployment Preparation:**
