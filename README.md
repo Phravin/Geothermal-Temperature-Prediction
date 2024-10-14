@@ -1,4 +1,4 @@
-**Prediction of Sub Surface Temperature using five different Linear Regression Model**
+**Geothermal Temperature Prediction using five different Linear Regression Model**
 
 **This Project is to predict temperature in the subsurface for geothermal energy applications. The bottomhole temperature at the bottom of an existing wellbore drilled for oil and gas application can be used to map the subsurface temperatures, which can then be used for creating geothermal heat maps**
 
